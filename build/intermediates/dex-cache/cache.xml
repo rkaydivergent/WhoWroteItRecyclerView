@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\pc\.android\build-cache\c425aed4a8f6404a94152f1eb24265c5249e456d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="D:\Summer\android-fundamentals-master\android-fundamentals-master\WhoWroteIt\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7d5d44a8527276801258c89de2c3a0a334e15206\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Summer\android-fundamentals-master\android-fundamentals-master\WhoWroteIt\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e5736a30311c06a84ef7eb404592a88213cb028">
+        <dex dex="D:\Summer\android-fundamentals-master\android-fundamentals-master\WhoWroteIt\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_af450b801f63a6771bc756034c177de20beabc8f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pc\.android\build-cache\52e40ef3ed71f66ed5dcd284a3bd9e6870e3aac8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="D:\Summer\android-fundamentals-master\android-fundamentals-master\WhoWroteIt\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9b7d3810563465bb9dbfc29710a5f5dd91cf555a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Summer\android-fundamentals-master\android-fundamentals-master\WhoWroteIt\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="D:\Summer\android-fundamentals-master\android-fundamentals-master\WhoWroteIt\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_b6f516f49fc6ddb6231ecd23cb30cb24e1ae2e44\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Summer\android-fundamentals-master\android-fundamentals-master\WhoWroteIt\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="182edbf1080c02e01ed79ac9bff366a903287c0b">
+        <dex dex="D:\Summer\android-fundamentals-master\android-fundamentals-master\WhoWroteIt\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_af450b801f63a6771bc756034c177de20beabc8f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pc\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="D:\Summer\android-fundamentals-master\android-fundamentals-master\WhoWroteIt\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_6f510084e90218e040331b059d4f9cec47f763fb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Summer\android-fundamentals-master\android-fundamentals-master\WhoWroteIt\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="D:\Summer\android-fundamentals-master\android-fundamentals-master\WhoWroteIt\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_b6f516f49fc6ddb6231ecd23cb30cb24e1ae2e44\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pc\.android\build-cache\5f32634ffa1d88ab97f17c5f7b5a4b56ffb4dd71\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="D:\Summer\android-fundamentals-master\android-fundamentals-master\WhoWroteIt\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b1cc2a01f3caee5dc462130c1ba6f76f9670a0f1\classes.dex" />
+    </item>
+
+</items>
